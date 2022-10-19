@@ -19,7 +19,7 @@ export function App() {
         </Heading>
 
         <Text size='lg' className='text-gray-400 mt-1'>
-          asdas
+          Faça o Login e começe a usar!
         </Text>
       </header>
 
